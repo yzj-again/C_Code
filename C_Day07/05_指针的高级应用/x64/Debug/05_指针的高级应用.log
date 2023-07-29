@@ -1,0 +1,5 @@
+﻿  main.c
+E:\File\C-Program\C\C_Code\C_Day07\05_指针的高级应用\main.c(27,26): warning C4013: “strlen”未定义；假设外部返回 int
+E:\File\C-Program\C\C_Code\C_Day07\05_指针的高级应用\main.c(32,2): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\File\C-Program\C\C_Code\C_Day07\05_指针的高级应用\main.c(33,2): warning C4013: “strcat”未定义；假设外部返回 int
+  05_指针的高级应用.vcxproj -> E:\File\C-Program\C\C_Code\C_Day07\x64\Debug\05_指针的高级应用之动态内存分配.exe
